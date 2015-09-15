@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PayUChallenge</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="movement_list_menu_add">Agregar</string>
+    <string name="account_add_menu_ok">Agregar Cuenta</string>
+    <string name="account_add_menu_info">Generar reporte</string>
+
+    <string-array name="movement_add_type">
+        <item>Credito</item>
+        <item>Debito</item>
+    </string-array>
+
+    <string name="client_list_title">Clientes</string>
+    <string name="movement_add_menu_ok">Guardar</string>
+    <string name="client_list_menu_add">Crear</string>
+    <string name="client_input_name">Nombre</string>
+    <string name="client_input_phone">Telefono</string>
+    <string name="client_input_address">Dirección</string>
+    <string name="client_menu_ok">Guardar</string>
+    <string name="general_error">Ha ocurrido un error</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/account_add_menu_ok"
+        android:icon="@android:drawable/ic_menu_save"
+        android:title="@string/account_add_menu_ok"/>
+    
+    <item
+        android:id="@+id/account_add_menu_info"
+        android:icon="@android:drawable/ic_menu_info_details"
+        android:title="@string/account_add_menu_info"/>
+
+</menu>
